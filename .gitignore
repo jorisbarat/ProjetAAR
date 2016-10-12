@@ -1,3 +1,14 @@
+Pedag/.settings
+Pedag_EJB/.settings
+Pedag_Web/.settings
+
+*.project
+*.classpath
+
+Pedag/build
+Pedag_EJB/build
+Pedag_Web/build
+
 *.class
 
 # Mobile Tools for Java (J2ME)
